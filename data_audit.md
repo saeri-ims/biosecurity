@@ -35,6 +35,18 @@ before 244 different values
 
 after 143 different values / 321 records
 
+```Javascript
+{
+  id: "ae304a1e0beadcfec04932589049bb5a",
+  name: "Insecta",
+  rank: "Class",
+  name_status: "accepted name",
+  name_html: "Insecta",
+  url: "http://www.catalogueoflife.org/col/browse/tree/id/ae304a1e0beadcfec04932589049bb5a",
+  is_extinct: false
+}
+```
+
     208 →
      47 → Insecta
       9 → Negayan paduana
@@ -56,7 +68,19 @@ after 143 different values / 321 records
       4 → Betabaculovirus: Plutella xylostella granulovirus
       4 → Blattella germanica
 
-### Submitters Leaderboard
+### Submitters
+
+```Javascript
+{
+  id: 45,
+  name: "Jo Tanner",
+  address: "Dept of Agriculture",
+  email: "jtanner@doa.gov.fk",
+  phone: 27355
+}
+```
+
+#### Leaderboard
 
 154 different values
 
@@ -105,6 +129,26 @@ after 143 different values / 321 records
       4 → Bense Island, pre-eradication of Rats, Mice and Rabbits pitfall trap 10 sorrel
       4 → Container
       4 → in house
+
+#### Real Locations
+
+    geo:-51.6949,-57.8606?z=14
+
+```Javascript
+{
+  type: "Feature",
+  properties: {
+    name: "Stanley"
+  },
+  geometry: {
+    type: "Point",
+    coordinates: [
+     -57.8606,
+     -51.6949
+   ]
+ }
+}
+```
 
 ### Origin
 
@@ -231,7 +275,7 @@ after 143 different values / 321 records
 
 ### Endemic
 
-      8 → endemic
+      8 → endemic - 1 (Haversia defensa)
      23 → foreign
     498 → unknown + 1 (Haversia defensa)
 

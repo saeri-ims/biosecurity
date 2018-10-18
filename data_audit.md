@@ -56,7 +56,7 @@ after 143 different values / 321 records
       4 → Betabaculovirus: Plutella xylostella granulovirus
       4 → Blattella germanica
 
-### Submitters
+### Submitters Leaderboard
 
 154 different values
 
@@ -71,15 +71,15 @@ after 143 different values / 321 records
      13 → Seafish Chandlery
      12 → Dan Fowler
      11 → Falklands Conservation
-     9 → Kris Thorsen
-     8 → Stephen McLean
-     7 → Cathy Halliday
-     6 → Stephen Cartwright
-     5 → Government House
-     5 → FIC
-     4 → Brian Summers
-     4 → Cyril Ellis
-     4 → Arina Berntsen
+      9 → Kris Thorsen
+      8 → Stephen McLean
+      7 → Cathy Halliday
+      6 → Stephen Cartwright
+      5 → Government House
+      5 → FIC
+      4 → Brian Summers
+      4 → Cyril Ellis
+      4 → Arina Berntsen
 
 ### locations
 
@@ -233,17 +233,15 @@ after 143 different values / 321 records
 
       8 → endemic
      23 → foreign
-    498 → unknown
+    498 → unknown + 1 (Haversia defensa)
 
-     Linyphiidae
-     Emmenomma oculatum
-     ? Emmenomma oculatum (wrong classification)
-     Falklandia rumbolli
-     ? Haversia defensa → Not Found!
-     Emmenomma oculatum
-     Laminacauda plagiata
-     Parudenus falklandicus
+  > 3 → [Emmenomma oculatum](http://www.catalogueoflife.org/col/details/species/id/9cafc54c5d95aeb875ffe290e2eaa5b6)  
+  1 → [Linyphiidae](http://www.catalogueoflife.org/col/details/database/id/29) *Spiders Family*   
+  1 → [Falklandia rumbolli](http://www.catalogueoflife.org/col/details/species/id/1da6191b49f8fe323641e8214383341d)  
+  1 → [Laminacauda plagiata](http://www.catalogueoflife.org/col/details/species/id/4d816c311e28000cc698ddfb46e75bc7)  
+  1 → [Parudenus falklandicus](http://www.catalogueoflife.org/col/details/species/id/e475522c19168dae04db7812c630b355)  
+  1 → Haversia defensa → ***Not Found!*** *(wrong classification)*
 
 ### 1 Extinct
 
->  Cartodere (Aridus) succinobaltica
+>  [Cartodere (Aridus) succinobaltica](https://paleobiodb.org/classic/basicTaxonInfo?taxon_no=259990)

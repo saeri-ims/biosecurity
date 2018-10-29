@@ -10,6 +10,8 @@
 74 -- ?  
 321 -- ok records  
 
+> Class | Order | Family (Subfamily) | Genus | Species
+
 before 244 different values
 
     134 →
@@ -34,6 +36,8 @@ before 244 different values
       3 → Insecta | Diptera | Agromyzidae
 
 after 143 different values / 321 records
+
+The **Catalogue of Life _(CoL)_** is the nearest thing to a comprehensive catalogue of all known species of organisms on Earth. Current edition contains **1,754,878** living and **61,579** extinct species which is probably just over three quarters of the world's known species
 
 ```Javascript
 {
@@ -256,18 +260,18 @@ after 143 different values / 321 records
     435 → photo
     463 → ethanol
 
-     36 → diptera
-     30 → hymenoptera
-      2 → neuroptera
-      0 → tricoptera
-     35 → lepidoptera
-    115 → coleoptera
-     25 → hemiptera
-      3 → orthoptera
     146 → arachnids
+    115 → coleoptera
+     36 → diptera
+     35 → lepidoptera
+     33 → other
+     30 → hymenoptera
+     25 → hemiptera
      10 → crustaceans
       8 → myriapods
-     33 → other
+      3 → orthoptera
+      2 → neuroptera
+      0 → tricoptera
 
      15 → established
      41 → provisional
